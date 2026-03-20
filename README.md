@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 # Adv-Python-Calculator
 🧮 Smart Calculator (Python CLI)
 A feature-rich command-line calculator built using Python, supporting arithmetic, scientific, and advanced operations with a clean modular structure and history tracking.
