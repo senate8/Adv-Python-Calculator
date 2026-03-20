@@ -39,7 +39,7 @@ calculator/
 ▶️ How to Run
 Make sure Python is installed
 Clone the repository:
-git clone https://github.com/your-username/calculator.git
-cd calculator
+git clone https://github.com/senate8/Adv-Python-Calculator.git
+cd Adv-Python-Calculator
 Run the program:
 python main.py
